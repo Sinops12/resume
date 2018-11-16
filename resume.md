@@ -61,7 +61,7 @@ Naver (Text To Speach API)
 Watson (Conversation API)  
   
 **데모**    
-![tony](https://user-images.githubusercontent.com/35250107/48616160-1fc3d100-e9d6-11e8-8126-771c07f3b91d.PNG)|![image](https://user-images.githubusercontent.com/35250107/48617600-3835ea80-e9da-11e8-9411-4caa64d174cb.png)  
+![tempsnip](https://user-images.githubusercontent.com/35250107/48617852-e3df3a80-e9da-11e8-8f6b-dc71706a5752.png)**---->**![tony](https://user-images.githubusercontent.com/35250107/48616160-1fc3d100-e9d6-11e8-8126-771c07f3b91d.PNG)  
 
 -----------------------
 
