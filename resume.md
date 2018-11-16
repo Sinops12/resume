@@ -31,7 +31,7 @@ RESUME
 
 **개발 스펙**   
 * SoftWare    
-Server : Java , JSP, MySQL, JSON  
+Server : Java , JSP, MySQL
 Client : HTML, JavaScript  
 * Library    
 OpenCV  
