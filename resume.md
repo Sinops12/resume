@@ -38,7 +38,10 @@ OpenCV
 Chrome API (Speech & Video)  
 
 **데모**  
-> ![signon1](https://user-images.githubusercontent.com/35250107/48616015-be9bfd80-e9d5-11e8-801e-924e3f7c9985.PNG) ![signon2](https://user-images.githubusercontent.com/35250107/48616092-f014c900-e9d5-11e8-9e09-b45666ac82dc.PNG)
+> ![signon1](https://user-images.githubusercontent.com/35250107/48616015-be9bfd80-e9d5-11e8-801e-924e3f7c9985.PNG)  
+**홈 페이지에서 말을 하면 음성과 수화 이미지들을 보여준다.**  
+> ![signon2](https://user-images.githubusercontent.com/35250107/48616092-f014c900-e9d5-11e8-9e09-b45666ac82dc.PNG)  
+**카메라에 대고 수화를 하면 홈페이지에 텍스트와 음성이 나오게 된다.**  
   
 -----------------------
 
@@ -58,7 +61,7 @@ Naver (Text To Speach API)
 Watson (Conversation API)  
   
 **데모**    
-> ![tony](https://user-images.githubusercontent.com/35250107/48616160-1fc3d100-e9d6-11e8-8126-771c07f3b91d.PNG)  
+![tony](https://user-images.githubusercontent.com/35250107/48616160-1fc3d100-e9d6-11e8-8126-771c07f3b91d.PNG)|![image](https://user-images.githubusercontent.com/35250107/48617600-3835ea80-e9da-11e8-9411-4caa64d174cb.png)  
 
 -----------------------
 
