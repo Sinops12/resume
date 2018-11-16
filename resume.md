@@ -38,8 +38,8 @@ OpenCV
 Chrome API (Speech & Video)  
 
 **데모**  
-![원](resume/SignOn1.png) | ![투](resume/SignOn2.png) 
-
+> ![signon1](https://user-images.githubusercontent.com/35250107/48616015-be9bfd80-e9d5-11e8-801e-924e3f7c9985.PNG) ![signon2](https://user-images.githubusercontent.com/35250107/48616092-f014c900-e9d5-11e8-9e09-b45666ac82dc.PNG)
+  
 -----------------------
 
 2. "**TONY**"   
@@ -55,6 +55,9 @@ Raspberry Pi
 Google (Speach To Text API)  
 Naver (Text To Speach API)  
 Watson (Conversation API)  
+  
+**데모**    
+> ![tony](https://user-images.githubusercontent.com/35250107/48616160-1fc3d100-e9d6-11e8-8126-771c07f3b91d.PNG)  
 
 -----------------------
 
@@ -75,3 +78,8 @@ FSR (압력), DFR0052(진동), NT101020232(소리), Pi_Camera
 OpenCV - '아기의 얼굴을 인식'  
 Azure SQL - 'Micro Soft의 Azure API중 DataBase'  
 Pi4j - '라즈베리파이 내의 센서를 제어 하는 라이브러리'  
+
+**데모**  
+> ![default](https://user-images.githubusercontent.com/35250107/48616238-58fc4100-e9d6-11e8-9897-601b04665f25.png)  
+> ![tempsnip](https://user-images.githubusercontent.com/35250107/48616251-631e3f80-e9d6-11e8-96f1-4462c50b6979.png)
+  
