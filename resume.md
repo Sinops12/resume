@@ -38,7 +38,7 @@ OpenCV
 Chrome API (Speech & Video)  
 
 **데모**  
-!(원)(SignOn1.png) | !(투)(SignOn2.png) 
+![원](/image/SignOn1.png) | ![투](/image/SignOn2.png) 
 
 -----------------------
 
