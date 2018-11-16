@@ -2,7 +2,7 @@ RESUME
 ========
 ### 소개 >  
   > 이름 : **Seung Jae Lee**  
-  > 학교 : Hallym University   
+  > 학교 : Hallym University  (**2012 ~ 2019**)   
   > 전공 : 소프트웨어 중심 대학 (콘텐츠 IT 학과)  
   > 이메일 : zzanggu3026@naver.com  
   > 핸드폰 : 010-8927-9613  
