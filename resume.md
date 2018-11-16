@@ -14,3 +14,7 @@ RESUME
 [1]:https://www.google.com
 <https://www.google.com/>
 
+------------------------
+Library  
+  * OpenCV (Face Recognition)  
+  * ![alt text](/path/to/ㅇㄷ.png)  
