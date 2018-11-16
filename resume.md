@@ -9,7 +9,7 @@ RESUME
   
 ----------------------
 
-### 역량 >  
+### 기술 >  
   * Soft-Ware  
    C | C++ | Java | JSP | HTML | JavaScript | MYSQL | Python |  Linux  
   * HardWare  
