@@ -9,7 +9,7 @@ RESUME
   
 ----------------------
 
-### 기술 >  
+### 사용 가능 기술 >  
   * Soft-Ware  
    C | C++ | Java | JSP | HTML | JavaScript | MYSQL | Python |  Linux  
   * HardWare  
