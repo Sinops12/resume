@@ -67,21 +67,30 @@ Naver (Text To Speach API)
 Watson (Conversation API)  
   
   
+  
+  
 **데모**   
+
+
 
 ![tempsnip](https://user-images.githubusercontent.com/35250107/48617852-e3df3a80-e9da-11e8-8f6b-dc71706a5752.png)**---->**![tony](https://user-images.githubusercontent.com/35250107/48616160-1fc3d100-e9d6-11e8-8126-771c07f3b91d.PNG)  
 
 
+
 -----------------------
 
+
 3. "**그루잠**"  - 팀
+
 
 > **주최** : Micro Soft- 이매진 컵(한국 본선)  
 > 모빌과 침대를 이용하여 아기의 움직임을  
 > 진동, 소리, 압력, 카메라를 이용하여 부모가 아기에게  
 > 부주의 했을 때 아기의 돌연사를 예방 할 수 있다.  
 
+
 **개발 스펙**
+
 * SoftWare  
 Server : Java  
 Cient  : C++, Android Studio    
@@ -95,10 +104,15 @@ Azure SQL - 'Micro Soft의 Azure API중 DataBase'
 Pi4j - '라즈베리파이 내의 센서를 제어 하는 라이브러리'  
 
 **데모**  
+
+
 > 핵심 기능 >    
   
+  
  > ![image](https://user-images.githubusercontent.com/35250107/48616238-58fc4100-e9d6-11e8-9897-601b04665f25.png)  
+ 
  > ![image](https://user-images.githubusercontent.com/35250107/48617266-49322c00-e9d9-11e8-973c-25aca9359e80.png)  
+ 
  > 침대에 부착된 센서들이 센싱함 -->  카메라가 아이의 얼굴을 인식함 (전면, 후면)  -->  결과를 스마트폰으로 전송  
 --------------
   
