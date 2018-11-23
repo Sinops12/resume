@@ -9,6 +9,7 @@ RESUME
   
 ----------------------
 
+ 
 ### 사용 가능 기술 >  
   * Soft-Ware  
    C | C++ | Java | JSP | HTML | JavaScript | MYSQL | Python |  Linux  
@@ -17,11 +18,13 @@ RESUME
   * Library  
    OpenCV | Open API (Naver, Kakao, Google, IBM, Azure, etc...)  
   
+  
 -----------------------
 
 ### 프로젝트 내용 >  
 
 -----------------------
+
 
 1. "**Sign On**"   - 개인
 >  청각 장애인은 소리를 들을 수 없는 장애를 가진 사람이다.  
@@ -43,6 +46,7 @@ Chrome API (Speech & Video)
 > ![signon2](https://user-images.githubusercontent.com/35250107/48616092-f014c900-e9d5-11e8-9e09-b45666ac82dc.PNG)  
 **카메라에 대고 수화를 하면 홈페이지에 텍스트와 음성이 나오게 된다.**  
   
+  
 -----------------------
 
 2. "**TONY**"   - 팀
@@ -50,7 +54,9 @@ Chrome API (Speech & Video)
 > 동물원에 오는 손님 중 어린이 대상으로 만든 챗봇이다.  
 >"토니야 안녕!" 이라고 말하면 토니가 대답을 해준다.  
 
+
 **개발 스펙**    
+
 * SoftWare     
 Python  
 * HardWare    
@@ -60,12 +66,16 @@ Google (Speach To Text API)
 Naver (Text To Speach API)  
 Watson (Conversation API)  
   
-**데모**    
+  
+**데모**   
+
 ![tempsnip](https://user-images.githubusercontent.com/35250107/48617852-e3df3a80-e9da-11e8-8f6b-dc71706a5752.png)**---->**![tony](https://user-images.githubusercontent.com/35250107/48616160-1fc3d100-e9d6-11e8-8126-771c07f3b91d.PNG)  
+
 
 -----------------------
 
 3. "**그루잠**"  - 팀
+
 > **주최** : Micro Soft- 이매진 컵(한국 본선)  
 > 모빌과 침대를 이용하여 아기의 움직임을  
 > 진동, 소리, 압력, 카메라를 이용하여 부모가 아기에게  
